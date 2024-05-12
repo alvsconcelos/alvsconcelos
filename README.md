@@ -5,22 +5,15 @@
  <p align="center"><samp>A <strong>Wordpress</strong> and <strong>PHP</strong> full-stack software engineer from Brazil<br>and E-commerce Tech Lead at <a href="https://www.genera.com.br">Genera</a>.</samp></p>
  <p align="center">🇧🇷 🏳️‍🌈 🏠 🎶 🐈‍⬛</p> 
  <p align="center">________________________________________________________________</p>
-</pre>
-<details>
-<summary>
-view more about me
- 
-</summary>
 
-<pre>
 <strong>profile@github.com ~ %</strong> php alvsconcelos.php --more<br>
 ▓▓▓▓ what i do
 
-I've been working in software development for a long time, since my teenage years, so it's been nearly 11+ years. Being on it made me proficient in various programming languages such as PHP and JavaScript. Throughout this time, what has truly captivated me is working with WordPress and PHP, which has become my primary stack and what I enjoy the most. Despite my fondness for WordPress, I also work and love Node.JS, Laravel and Javascript.
+I've been working in software development for a long time, since my teenage years, so it's been nearly 11+ years.<br>Being on it made me proficient in various programming languages such as PHP and JavaScript. Throughout this time,<br>what has truly captivated me is working with WordPress and PHP, which has become my primary stack and what I<br>enjoy the most. Despite my fondness for WordPress, I also work and love Node.JS, Laravel and Javascript.
 
 ▓▓▓▓ what i'm doing at moment
 
-Lately I'm focused on release some ideas as open-source projects using PHP, Node.JS and Javascript. Not only for Wordpress, my mind is a fast-thinker 😅😂.
+Lately I'm focused on release some ideas as open-source projects using PHP, Node.JS and Javascript. Not only<br>for Wordpress, my mind is a fast-thinker 😅😂.
 
 ▓▓▓▓ contact
 

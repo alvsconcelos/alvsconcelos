@@ -15,22 +15,22 @@ I've been working in software development for a long time, since my teenage year
 
 Lately I'm focused on release some ideas as open-source projects using PHP, Node.JS and Javascript. Not only<br>for Wordpress, my mind is a fast-thinker 😅😂.
 
-▓▓ recent projects
+░░ recent projects
 👩🏾‍💼🏪 <a href="https://wordpress.org/plugins/calculo-do-frete-somente-com-o-cep-wc-brasil/">Cálculo do frete somente com o CEP – WC Brasil</a> - A free Woocommerce extension plugin that helps<br>brazilian stores to sell their product with 2000+ active users.
 
 ▓▓▓▓ contact
 
 Don't forget to contact me if you have something interesting or some questions!
-✉️✉️ <a href="mailto:contact@alvsconcelos.dev">contact@alvsconcelos.dev</a>
+✉️ <a href="mailto:contact@alvsconcelos.dev">contact@alvsconcelos.dev</a>
 👥 <a href="https://linkedin.com/in/alvsconcelos/?utm_source=githubprofile">linkedin</a>
 🌎 <a href="https://alvsconcelos.dev/?utm_source=githubprofile">alvsconcelos.dev</a>
 
 ▓▓▓▓ skills
 
-▓▓ web technologies
+░░ web technologies
 PHP |  Wordpress |  Woocommerce |  Javascript |  Node.JS |  React.JS | HTML | CSS | SCSS | MySQL
 
-▓▓ languages
+░░ languages
 +------------+--------------------+
 | language   | proficiency        |
 +------------+--------------------+
@@ -38,4 +38,3 @@ PHP |  Wordpress |  Woocommerce |  Javascript |  Node.JS |  React.JS | HTML | CS
 | English    | C2 <a href="https://cert.efset.org/Hfqsom">EFSET certified</a> |
 +------------+--------------------+
 </pre>
-</details>

@@ -15,6 +15,9 @@ I've been working in software development for a long time, since my teenage year
 
 Lately I'm focused on release some ideas as open-source projects using PHP, Node.JS and Javascript. Not only<br>for Wordpress, my mind is a fast-thinker 😅😂.
 
+▓▓ recent projects
+👩🏾‍💼🏪 <a href="https://wordpress.org/plugins/calculo-do-frete-somente-com-o-cep-wc-brasil/">Cálculo do frete somente com o CEP – WC Brasil</a> - A free Woocommerce extension plugin that helps<br>brazilian stores to sell their product with 2000+ active users.
+
 ▓▓▓▓ contact
 
 Don't forget to contact me if you have something interesting or some questions!

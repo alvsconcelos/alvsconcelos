@@ -2,7 +2,7 @@
  <strong>profile@github.com ~ %</strong> php alvsconcelos.php
  <p align="center">________________________________________________________________</p>
  <p align="center" style="margin-bottom:0">🙋🏻🙋🏻 Whats up? 🙋🏻🙋🏻<br><br>I am Alvaro Vasconcelos!<br><a href="https://alvsconcelos.dev" target="_blank">@alvsconcelos</a></p>
- <p align="center"><samp>A <strong>Wordpress</strong> and <strong>PHP</strong> full-stack software engineer from Brazil<br>and E-commerce Tech Lead at <a href="https://www.genera.com.br">Genera</a>.</samp></p>
+ <p align="center"><samp>A <strong>Wordpress</strong> and <strong>PHP</strong> full-stack software engineer from Brazil<br>and I used to be an E-commerce Tech Lead at <a href="https://www.genera.com.br">Genera</a>.</samp></p>
  <p align="center">🇧🇷 🏳️‍🌈 🏠 🎶 🐈‍⬛</p> 
  <p align="center">________________________________________________________________</p>
 

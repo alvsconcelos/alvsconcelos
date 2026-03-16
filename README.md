@@ -16,7 +16,9 @@ I've been working in software development for a long time, since my teenage year
 Lately I'm focused on release some ideas as open-source projects using PHP, Node.JS and Javascript. Not only<br>for Wordpress, my mind is a fast-thinker 😅😂.
 
 ░░ recent projects
-👩🏾‍💼🏪 <a href="https://wordpress.org/plugins/calculo-do-frete-somente-com-o-cep-wc-brasil/">Cálculo do frete somente com o CEP – WC Brasil</a> - A free Woocommerce extension plugin that helps<br>brazilian stores to sell their product with 2000+ active users.
+📦 <a href="https://wordpress.org/plugins/calculo-do-frete-somente-com-o-cep-wc-brasil/">Cálculo do frete somente com o CEP – WC Brasil</a> (v1.2.0) - A free WooCommerce plugin that lets<br>brazilian customers calculate shipping using only their postal code. 2000+ active users.
+
+🛒 <a href="https://wordpress.org/plugins/add-multiple-products-to-cart-via-url-for-woocommerce/">Add Multiple Products to Cart via URL for WooCommerce</a> (v1.1.0) - A free WooCommerce plugin to add<br>multiple products to the cart in a single URL request. Useful for marketing links and QR codes.
 
 ▓▓▓▓ contact
 
